@@ -56,4 +56,13 @@
         android:layout_toRightOf="@+id/phoneNumber"
         android:layout_toEndOf="@+id/phoneNumber" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/messageText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="37dp"
+        android:id="@+id/madeby"
+        android:text="stuff"/>
+
 </RelativeLayout>

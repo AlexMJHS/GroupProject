@@ -10,7 +10,9 @@ import android.app.Activity;
 import android.widget.Toast;
 import android.telephony.SmsManager;
 
-
+/**
+ * @author Alejandro Magallanes
+ */
 public class SendTextActivity extends Activity
 {
     private Button sendButton;
